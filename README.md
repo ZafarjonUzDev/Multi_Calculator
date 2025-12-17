@@ -15,7 +15,7 @@ Geometrik shakllar va sog‘liq bilan bog‘liq hisob-kitoblarni bajaradi.
 - Natijani ko‘ring
 
 ## Muallif
-Muallif: Your Name
+Muallif: Ibotov Zafarjon
 
 ## Ishga tushirish
 ```bash
